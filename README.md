@@ -17,7 +17,8 @@ After that you can run the project as follows:
 python -m main
 ```
 
-After that a figure with most of the world map will appear which is an example 
+After that, a figure with most of the world map will appear which is an example 
 of polygons.
-On that figure you can click and the program will find and display the shortest
+On that figure, you can click and the program will find and display the shortest
 path between the places you clicked.
+You can select a different polygon by rewriting in the code which file do you want to load in main.py
