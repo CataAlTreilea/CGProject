@@ -11,7 +11,7 @@ To install the necessary libraries run the following:
 pip install -r requirements.txt
 ```
 
-After that you can run the project as follows:
+After that you can run the project using this command:
 
 ```bash
 python -m main
