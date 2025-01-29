@@ -1,4 +1,4 @@
-﻿pyshp
+pyshp
 matplotlib
 scipy
 numpy
