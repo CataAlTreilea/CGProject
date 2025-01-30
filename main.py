@@ -36,7 +36,7 @@ if __name__ == '__main__':
             res = locator.get_shortest_path(point)
             if res:
                 passthrough_edges, path = res
-                # Only plot edges if show_edges is True
+             
                 if show_edges:
                     for edge in passthrough_edges:
                         plt.plot(edge['x'], edge['y'], 'g-')  # Green lines for edges
